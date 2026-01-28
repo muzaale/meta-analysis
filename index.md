@@ -253,4 +253,4 @@ And placement — not dismissal — is the whole Ukubona ethic.
   <figcaption style="margin-top: 0.5rem; font-size: 0.85em; color: #555; text-align: center;">
     Obesity & Low-Carbohydrate Ketogenic Diet — Working Manuscript (PDF)
   </figcaption>
-</figure>
+</figure>     
