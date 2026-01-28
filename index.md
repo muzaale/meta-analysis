@@ -76,7 +76,7 @@ I’m going to **place it**.
 
 ---
 
-### **1. Language — (E, x)**
+### **1. Language — $(E, x)$**
 
 **What is being named, and what is being stabilized?**
 
@@ -99,7 +99,7 @@ That is priestly work.
 
 ---
 
-### **2. Science — E(t | x) + ε**
+### **2. Science — $E(t\mid  x) + \epsilon$**
 
 **Measurement + error**
 
@@ -132,7 +132,7 @@ Science becomes smoothing.
 
 ---
 
-### **3. Art — dEₓ/dt**
+### **3. Art — $\dfrac{dE_x}{dt}$**
 
 **Power, momentum, persuasion**
 
@@ -159,7 +159,7 @@ It **moves the crowd**.
 
 ---
 
-### **4. Life — dĒₓ/dt ± z√(d²Eₓ/dt²)**
+### **4. Life — $\dfrac{dE_{\bar{x}}}{dt} \pm z\sqrt{\dfrac{d^2E_x}{dt^2}}$**
 
 **Perspective, lived reality, phase**
 
@@ -186,7 +186,7 @@ The life-layer curvature is under-modeled.
 
 ---
 
-### **5. Meaning — ∫Eₓ dt + εₓt + Cₓ**
+### **5. Meaning — $\int E_x \,dt + \epsilon_x \,t + C_x$**
 
 **What integrates over time? What scars remain?**
 
